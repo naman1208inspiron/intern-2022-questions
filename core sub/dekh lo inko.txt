@@ -1,0 +1,6 @@
+design a parking lot
+repeat and missing, trie, cn, memory handling in c
+
+https://www.youtube.com/watch?v=N1dAIFGakxY
+https://www.youtube.com/watch?v=Eg6ibIGxeGc
+it k funde--> youtube channel for cn 
